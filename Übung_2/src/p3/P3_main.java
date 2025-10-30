@@ -3,8 +3,8 @@ package p3;
 public class P3_main {
 	public static void main(String[] args) {
 		int i = 7;
-		int j = 18;
-		int k = 32;
+		int j = 10;
+		int k = 4;
 		
 		if (i<j) {
 			System.out.println("A");
